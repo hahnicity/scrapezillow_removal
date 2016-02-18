@@ -1,5 +1,7 @@
 #Scrapezillow is no more
 
+![farewell](http://i.telegraph.co.uk/multimedia/archive/02902/nat-geo-summary_2902260b.jpg )
+
 I am sad to say this, but I had to remove scrapezillow from the
 internet today. It was found to be in violation of the Zillow EULA so
 I had little recourse but to remove it. If you want a EULA friendly
